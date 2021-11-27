@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Danil
 
-- 🇺🇦 I live in Zaporizhzhya, Ukraine.
+- 🇺🇦 I live in Ukraine.
 - 🍎 I'm an ios app developer.
-- 🤖 Most of the time I'm writing on Swift 
+- 🤖 Most of the time I'm writing on Swift.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [frolovdanil75@gmail.com](mailto:frolovdanil75@gmail.com).
 
