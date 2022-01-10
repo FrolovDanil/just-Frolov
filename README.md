@@ -10,7 +10,7 @@
 
 ## 🐶 My pet-projects
 
-[Portfolio]() - I love creating awesome iPhone & iPad Apps that really makes a difference
+[Portfolio](https://www.linkedin.com/in/danil-frolov-07a903221/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADfXUJ4BuCcLhlgyPNvVcsLuImSJLPHh654,1635477128051)/) - I love creating awesome iPhone & iPad Apps that really makes a difference
 
 ## 🤝 Connect with me
 
