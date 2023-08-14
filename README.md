@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Danil
 
-- 🇺🇦 I live in Ukraine.
+- 🇺🇦 I am Ukrainian.
 - 🍎 I'm an iOS app developer.
 - 🤖 Most of the time I'm writing on Swift.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
