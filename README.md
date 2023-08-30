@@ -6,7 +6,7 @@
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [frolovdanil75@gmail.com](mailto:frolovdanil75@gmail.com).
 
-#### My CV: [Frolov Danil - CV](https://www.linkedin.com/in/danil-frolov/overlay/1635482763372/single-media-viewer/)
+#### My CV: [Frolov Danil - CV](https://www.linkedin.com/in/danil-frolov/overlay/1635537637627/single-media-viewer/)
 
 ## 🐶 My pet-projects
 
